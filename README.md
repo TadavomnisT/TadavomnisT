@@ -1,6 +1,6 @@
 ### TadavomnisT
 
-I am Behrad.B, an open-source programmer and computer researcher. I recieved my BSc from SUT and am currently pursuing an MSc on Software-ENG at the same institution. My thesis lies in resource management in edge computing, but I have a certain interest in a broad-spectrum of fields including cryptography, open-source technologies, privacy-preserving tools, free software, algorithms, operating systems, web and network protocols, compression algorithms, image processing, artificial intelligence, system architectures, security, GNU/Linux, medical systems, and etc...
+I am Behrad.B, an open-source programmer and computer researcher. I recieved my BSc from SUT and am currently pursuing an MSc in Software-ENG at the same institution. My thesis lies in resource management in edge computing, but I have a certain interest in a broad-spectrum of fields including cryptography, open-source technologies, privacy-preserving tools, free software, algorithms, operating systems, web and network protocols, compression algorithms, image processing, artificial intelligence, system architectures, security, GNU/Linux, medical systems, and etc...
 
 **I’m currently working on :**
 + [ECHOES](https://github.com/TadavomnisT/ECHOES) : ECHOES stands for Edge and Cloud Hybrid Optimization Environment Simulator.
@@ -20,7 +20,7 @@ I am Behrad.B, an open-source programmer and computer researcher. I recieved my 
 **My sponsors and contribution:**
 + [FemboyOS](https://github.com/Sugaryyyy/FemboyOS) : Femboy GNU/Linux distro.
 
-**Some of my free and open-source aricles:**
+**Some of my free and open-source articles:**
 * You can read them online in here: https://tadavomnist.github.io/
 * [Which Search Engine Should We Use?](https://github.com/TadavomnisT/Free_Books-Documents/tree/main/Articles/2-which-search-engine-En)
 * [What is the Difference Between XSS and XSRF?](https://github.com/TadavomnisT/Free_Books-Documents/tree/main/Articles/3-XSS-XSRF-En)
