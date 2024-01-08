@@ -20,27 +20,9 @@ I am Behrad.B, an open-source programmer and computer researcher. I recieved my 
 **My sponsors and contribution:**
 + [FemboyOS](https://github.com/Sugaryyyy/FemboyOS) : Femboy GNU/Linux distro.
 
-**Some of my free and open-source articles:**
-* You can read them online in here: https://tadavomnist.github.io/
-* [Which Search Engine Should We Use?](https://github.com/TadavomnisT/Free_Books-Documents/tree/main/Articles/2-which-search-engine-En)
-* [What is the Difference Between XSS and XSRF?](https://github.com/TadavomnisT/Free_Books-Documents/tree/main/Articles/3-XSS-XSRF-En)
-     * [What is XSS attack?](https://github.com/TadavomnisT/Free_Books-Documents/tree/main/Articles/3-XSS-XSRF-En#what-is-xss-attack)
-     * [What is XSRF attack?](https://github.com/TadavomnisT/Free_Books-Documents/tree/main/Articles/3-XSS-XSRF-En#what-is-a-csrfxsrf-attack)
-*  [Comparison of RAM and HDD Read/Write Speeds 🔥](https://github.com/TadavomnisT/Free_Books-Documents/tree/main/Articles/4-RAM-vs-HDD-En)
-      *  [What is a RAM?](https://github.com/TadavomnisT/Free_Books-Documents/tree/main/Articles/4-RAM-vs-HDD-En#what-is-a-ram)
-      *  [What is a Hard-Disk?](https://github.com/TadavomnisT/Free_Books-Documents/tree/main/Articles/4-RAM-vs-HDD-En#what-is-a-hard-disk)
-      *  [Speed Comparison between RAM and HDD](https://github.com/TadavomnisT/Free_Books-Documents/tree/main/Articles/4-RAM-vs-HDD-En#comparison-of-hard-disk-and-ram-speed)
-            * [Phase 1: Comparing the Speed of RAM and Hard Disk in Handling Large Data](https://github.com/TadavomnisT/Free_Books-Documents/tree/main/Articles/4-RAM-vs-HDD-En#phase-1-comparing-the-speed-of-ram-and-hard-disk-in-handling-large-data)
-            * [Phase Two: Comparing the Speed of RAM and Hard Disk for Small Data and Fast Sequential Allocations](https://github.com/TadavomnisT/Free_Books-Documents/tree/main/Articles/4-RAM-vs-HDD-En#phase-two-comparing-the-speed-of-ram-and-hard-disk-for-small-data-and-fast-sequential-allocations)
-* [GNU Manifesto Persian Translation](https://github.com/TadavomnisT/Free_Books-Documents/tree/main/Articles/6-GNU-manifesto-persian-translation)
-* [Backtracking Algorithm in Artificial Intelligence 🔥](https://github.com/TadavomnisT/Free_Books-Documents/tree/main/Articles/5-backtracking-En)
-    * [The n-Queens and n-Rooks Problem](https://github.com/TadavomnisT/Free_Books-Documents/tree/main/Articles/5-backtracking-En#the-n-queens-and-n-rooks-problem)
-    * [What is the Backtracking Algorithm?](https://github.com/TadavomnisT/Free_Books-Documents/tree/main/Articles/5-backtracking-En#what-is-the-backtracking-algorithm)
-        * [Trees: An Indispensable Concept in Computer Science](https://github.com/TadavomnisT/Free_Books-Documents/tree/main/Articles/5-backtracking-En#trees-an-indispensable-concept-in-computer-science)
-        * [What is a tree? (Simple Explanation)](https://github.com/TadavomnisT/Free_Books-Documents/tree/main/Articles/5-backtracking-En#what-is-a-tree-simple-explanation)
-        * [Solving n-rooks problem and n-queens problem using the backtracking approach](https://github.com/TadavomnisT/Free_Books-Documents/tree/main/Articles/5-backtracking-En#solving-n-rooks-problem-and-n-queens-problem-using-the-backtracking-approach)
-        * [How to print a tree in PHP?](https://github.com/TadavomnisT/Free_Books-Documents/tree/main/Articles/5-backtracking-En#how-to-print-a-tree-in-php)
-* More at [this repo](https://github.com/TadavomnisT/Free_Books-Documents).
+**My Articles and Books:**
+* You can read articles online at https://tadavomnist.github.io/
+* You can access all of articles ans books at [this repo](https://github.com/TadavomnisT/Free_Books-Documents).
 
 **How to reach me:**
 + Mail me at behroora@yahoo.com
