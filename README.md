@@ -17,7 +17,7 @@ I am Behrad.B, an open-source programmer and computer researcher. I recieved my 
 + [C4C: Captcha for Commandline](https://github.com/TadavomnisT/captcha-for-commandline) : Commandline-based CAPTCHAs.
 + [C4P: Captcha for PHP](https://github.com/TadavomnisT/captcha_for_php) : Open-source CAPTCHAs built with PHP.
 
-**My sponsors and contribution:**
+**My contributions and projects I like:**
 + [FemboyOS](https://github.com/Sugaryyyy/FemboyOS) : Femboy GNU/Linux distro.
 
 **My Articles and Books:**
