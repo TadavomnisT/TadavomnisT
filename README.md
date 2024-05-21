@@ -1,6 +1,6 @@
 ### TadavomnisT
 
-I am Behrad.B, an open-source programmer and computer researcher. I recieved my BSc from SUT and am currently pursuing an MSc in Software-ENG at the same institution. My thesis lies in resource management in edge computing, but I have a certain interest in a broad-spectrum of fields including cryptography, open-source technologies, privacy-preserving tools, free software, algorithms, operating systems, web and network protocols, compression algorithms, image processing, artificial intelligence, system architectures, security, GNU/Linux, medical systems, and etc...
+I am Behrad.B, an open-source programmer and computer researcher. I recieved my BSc and MSc in Software-ENG from SUT. My thesis lies in resource management in edge computing, but I have a certain interest in a broad-spectrum of fields including cryptography, open-source technologies, privacy-preserving tools, free software, algorithms, operating systems, web and network protocols, compression algorithms, image processing, artificial intelligence, system architectures, security, GNU/Linux, medical systems, and etc...
 
 **I’m currently working on :**
 + [ECHOES](https://github.com/TadavomnisT/ECHOES) : ECHOES stands for Edge and Cloud Hybrid Optimization Environment Simulator.
