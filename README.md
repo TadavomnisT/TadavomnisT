@@ -1,6 +1,6 @@
 ### Behrad.B
 
-I am an open-source programmer and computer researcher. I received my BSc and MSc in Software Engineering from SUT. My thesis focuses on resource management in edge computing, but I have a certain interest in a broad spectrum of fields, including cryptography, open-source technologies, privacy-preserving tools, free software, algorithms, operating systems, web and network protocols, compression algorithms, image processing, artificial intelligence, system architectures, security, GNU/Linux, and medical systems, and etc...
+I am an open-source programmer and computer researcher. I received my BSc and MSc in Software Engineering. My thesis focuses on resource management in edge computing, but I have a certain interest in a broad spectrum of fields, including cryptography, open-source technologies, privacy-preserving tools, free software, algorithms, operating systems, web and network protocols, compression algorithms, image processing, artificial intelligence, system architectures, security, GNU/Linux, and medical systems, and etc...
 
 **Some of my little projects:**
 + [MDEditor](https://github.com/TadavomnisT/MDEditor) : MDEditor is a free and open-source MarkDown editor, with the support HTML, PDF, MediaWiki, etc...
@@ -17,12 +17,9 @@ I am an open-source programmer and computer researcher. I received my BSc and MS
 + [RecoLinux](https://github.com/TadavomnisT/RecoLinux) : RecoLinux is a lightweight commandline-based GNU/Linux distro, for recovering data on hard-disk. 
 + Some free and open-source articles and books, which can be accessed in [this repo](https://github.com/TadavomnisT/OpenArticles). 
 
-**My contributions and projects I like:**
-+ [FemboyOS](https://github.com/Sugaryyyy/FemboyOS) : Femboy GNU/Linux distro.
-
 **My Articles and Books:**
 * You can read articles online in https://tadavomnist.github.io/ .
-* You can access all of articles and books in [this repo](https://github.com/TadavomnisT/Free_Books-Documents).
+* You can access all of articles and books in [this repo](https://github.com/TadavomnisT/OpenArticles).
 
 **How to reach me:**
 + Mail me at : behroora at YAHOO dot COM
