@@ -13,8 +13,8 @@ I am an open-source programmer and computer researcher. I received my BSc and MS
 
 **I’m currently working on :**
 + [OMCS](https://github.com/Tadavomnism/Open-Medical-Control-System) : OMCS (Open-Medical-Control-System) is a free and open-source project designed for medical control purposes.
-+ [Validator](https://github.com/TadavomnisT/validator) : Validator is a free and open-source package for file validation.
 + [RecoLinux](https://github.com/TadavomnisT/RecoLinux) : RecoLinux is a lightweight commandline-based GNU/Linux distro, for recovering data on hard-disk.
++ [Validator](https://github.com/TadavomnisT/validator) : Validator is a free and open-source package for file validation.
 + [SeRCH](https://github.com/TadavomnisT/SeRCH) :  SeRCH is short for Secure Relay Chat over HTTP, which is secure network protocol.
 + Some free and open-source articles and books, which can be accessed in [this repo](https://github.com/TadavomnisT/OpenArticles). 
 
