@@ -1,6 +1,6 @@
 ### Behrad.B
 
-I am an open-source programmer and computer researcher. I received my BSc and MSc in Software Engineering. My thesis focuses on resource management in edge computing, but I have a certain interest in a broad spectrum of fields, including cryptography, open-source technologies, privacy-preserving tools, free software, algorithms, operating systems, web and network protocols, compression algorithms, image processing, artificial intelligence, system architectures, security, GNU/Linux, and medical systems, and etc...
+Open-Source Programmer, Computer Researcher, PhD Student of ***Software Engineering and Algorithms***.
 
 **Some of my little projects:**
 + [MDEditor](https://github.com/TadavomnisT/MDEditor) : MDEditor is a free and open-source MarkDown editor, with the support HTML, PDF, MediaWiki, etc...
