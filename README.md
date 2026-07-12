@@ -1,6 +1,6 @@
 ### Behrad.B
 
-Open-Source Programmer, Computer Researcher, PhD Student of ***Software Engineering and Algorithms***.
+Open-Source Programmer, Computer Researcher, PhD Student in ***Software Engineering and Algorithms***.
 
 **Some of my little projects:**
 + [MDEditor](https://github.com/TadavomnisT/MDEditor) : MDEditor is a free and open-source MarkDown editor, with the support HTML, PDF, MediaWiki, etc...
