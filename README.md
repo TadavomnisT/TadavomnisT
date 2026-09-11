@@ -11,7 +11,7 @@ Open-Source Programmer, Computer Researcher, PhD Student in ***Software Engineer
 + [C4P: Captcha for PHP](https://github.com/TadavomnisT/captcha_for_php) : Open-source CAPTCHAs built with PHP.
 + [LenvCrypt](https://github.com/TadavomnisT/LenvCrypt) :  LenvCrypt: Encrypted Linux Environment. A secure, password-protected safebox for GNU/Linux.
 + [QuackQuackScrape](https://github.com/TadavomnisT/QuackQuackScrape) :  QuackQuackScrape: Powerful php web scraper with support of functions for DuckDuckGo web search.
-+ [Zeportic](https://github.com/TadavomnisT/Zeportic) :  Zeportic: Zammad Reporting Tool, Reporting & analytics for Zammad helpdesk.
++ [Zeportic](https://github.com/TadavomnisT/Zeportic) : Zammad Reporting Tool, Reporting & analytics for Zammad helpdesk.
 
 
 
