@@ -12,6 +12,7 @@ Open-Source Programmer, Computer Researcher, PhD Student in ***Software Engineer
 + [LenvCrypt](https://github.com/TadavomnisT/LenvCrypt) :  LenvCrypt: Encrypted Linux Environment. A secure, password-protected safebox for GNU/Linux.
 + [QuackQuackScrape](https://github.com/TadavomnisT/QuackQuackScrape) :  QuackQuackScrape: Powerful php web scraper with support of functions for DuckDuckGo web search.
 + [Zeportic](https://github.com/TadavomnisT/Zeportic) : Zammad Reporting Tool, Reporting & analytics for Zammad helpdesk.
++ [CuteyMR](https://github.com/TadavomnisT/CuteyMR) : Small distributed MapReduce system that solves word-count problem.
 
 
 
